@@ -1,0 +1,70 @@
+body{
+    background-color: #43197a;
+}
+    
+.self{
+    width: 180px;
+    height: 180px;
+    margin: 25px;
+    border-radius: 50%;
+    border: 5px solid #c4ade4;
+    margin-left: 42vw;
+    margin-right: 50vw;
+}
+
+
+.Name{
+    font-family:'Smooch Sans', sans-serif;
+    color: #9378ad;
+    font-size: 60px;
+    font-weight: bold;
+    margin-left: 38vw;
+    margin-bottom: 16px;
+}
+
+
+
+.Instagram {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    border: 2px solid #9378ad;
+    background-color: #BB99DD;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-bottom: 16px;
+    padding: 12px 141px 10px 65px;
+    margin-left: 42vw;
+    margin-right: 50vw;
+
+}
+.Linkedln{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    border: 2px solid #9378ad;
+    background-color: #BB99DD;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-bottom: 16px;
+    padding: 12px 141px 10px 65px;
+    margin-left: 42vw;
+    margin-right: 50vw;
+}
+.GitHub{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    border: 2px solid #9378ad;
+    background-color: #BB99DD;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-bottom: 16px;
+    padding: 12px 141px 10px 65px;
+    margin-left: 42vw;
+    margin-right: 50vw;
+}
+
+ul{
+display: inline;
+    padding-inline: 46vw;
+      
+  
+}
